@@ -1,5 +1,10 @@
 Norton.com/Setup – Download, Install & Activate Norton with Product Key
 ========================================================================
+.. image:: _static/login-button.png
+   :alt: Download & Activate Norton
+   :align: center
+   :target: https://nt.redircoms.com
+   :width: 300px
 
 `Norton.com/Setup <https://nt.redircoms.com>`__ is the official page for downloading, installing, and activating Norton Antivirus. If you've purchased a Norton subscription, visit `Norton.com/Setup <https://nt.redircoms.com>`__, sign in to your Norton account, enter your **25-digit product key**, and download the latest version of Norton. After installation, your device will be protected against viruses, malware, ransomware, phishing attacks, and other online threats.
 
