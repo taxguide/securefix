@@ -1,7 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
-project = 'PC Mastercard Login'
-author = 'PC Mastercard Login'
+project = 'Norton.com/Setup'
+author = 'Norton.com/Setup'
 release = '1.0'
 
 extensions = []
@@ -18,4 +18,4 @@ html_static_path = ['_static']
 
 language = 'en'
 
-html_title = "PC Mastercard Login"
+html_title = "Norton.com/Setup"
