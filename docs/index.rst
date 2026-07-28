@@ -28,18 +28,3 @@ If you're having trouble downloading or activating Norton, try these solutions:
 * If your product key has already been redeemed, download Norton directly from your Norton account.
 * Disable any VPN or proxy connection temporarily.
 * Restart your computer and try the installation again.
-
-Frequently Asked Questions
---------------------------
-
-**Where can I find my Norton product key?**
-
-Your 25-digit product key is printed on your retail card or included in your purchase confirmation email.
-
-**Can I reinstall Norton after activation?**
-
-Yes. Once your subscription is linked to your Norton account, you can download and reinstall Norton on your eligible devices anytime.
-
-**Do I need a Norton account?**
-
-Yes. A Norton account is required to redeem your product key, download Norton, manage your subscription, and protect your devices.
